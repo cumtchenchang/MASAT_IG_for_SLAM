@@ -15,7 +15,7 @@ The input files must be in .g2o format. There are some examples in the 'input_da
 
 Once the inital guess is finished, we suggest using the [g2o](https://github.com/RainerKuemmerle/g2o) framework for optimization and visualization.
 
-
+数据：http://mplab.sztaki.hu/masat_slam/masat_slam_data.zip
 
 ### Requirements
 - Eigen (http://eigen.tuxfamily.org)
